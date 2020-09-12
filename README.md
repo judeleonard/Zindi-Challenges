@@ -1,3 +1,3 @@
 # Zindi-Challenges
 
-### An open Source Hackathon Competition on Zindi. 
+### An open Source Hackathon Competition on Zindi Africa. 
